@@ -1,0 +1,6 @@
+QUALITIES = [["Working part-time", "Can last a minute without blinking", "Has a YouTube channel with 10+ videos", "Has served on a church praise team", "Majoring in music", "Lives in Woodsworth residence", "Attends a church in uptown"],
+             ["Knows 3 or more languages", "Studying criminology", "Has a full G driver's license", "Has never been on a plane", "Uses a Samsung phone", "Studying Kinesiology", "Traveled to 4+ different continents"],
+             ["Can touch their nose with tongue", "Currently in 4th year", "Came to Canada for university", "Lives off campus", "Studying Human Biology", "Can name all Jesus' 12 disciples", "Lives in New College residence"],
+             ["Lives with a pet right now", "Owns UofT merch", "Lives in Trinity residence", "Currently a Rotman student", "Has 2 or more siblings", "Lives in Innis residence", "Can recite The Lord's Prayer"],
+             ["Hasn't watched Shang Chi", "Does NOT attend UofT St. George", "Only child (no siblings)", "Birthday on September 14", "Has a sibling at UofT", "Currently in engineering", "Has a selfie with a celebrity"],
+             ["Received second dose of vaccine", "Born outside of Canada", "Plays 2 or more instruments", "Currently in 1st year undergrad", "Has no classes in-person", "Attended church for 10+ years", "Left-handed"]]
