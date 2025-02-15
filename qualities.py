@@ -1,6 +1,6 @@
-QUALITIES = [["Working part-time", "Can last a minute without blinking", "Has a YouTube channel with 10+ videos", "Has served on a church praise team", "Majoring in music", "Lives in Woodsworth residence", "Attends a church in uptown"],
-             ["Knows 3 or more languages", "Studying criminology", "Has a full G driver's license", "Has never been on a plane", "Uses a Samsung phone", "Studying Kinesiology", "Traveled to 4+ different continents"],
-             ["Can touch their nose with tongue", "Currently in 4th year", "Came to Canada for university", "Lives off campus", "Studying Human Biology", "Can name all Jesus' 12 disciples", "Lives in New College residence"],
-             ["Lives with a pet right now", "Owns UofT merch", "Lives in Trinity residence", "Currently a Rotman student", "Has 2 or more siblings", "Lives in Innis residence", "Can recite The Lord's Prayer"],
-             ["Hasn't watched Shang Chi", "Does NOT attend UofT St. George", "Only child (no siblings)", "Birthday on September 14", "Has a sibling at UofT", "Currently in engineering", "Has a selfie with a celebrity"],
-             ["Received second dose of vaccine", "Born outside of Canada", "Plays 2 or more instruments", "Currently in 1st year undergrad", "Has no classes in-person", "Attended church for 10+ years", "Left-handed"]]
+QUALITIES = [["Has plans tomorrow", "Can juggle", "Do the splits", "Same age as ______", "Born outside of Canada", "Oldest child", "Served on a church praise team"],
+             ["Traveled to 4+ different countries", "4th year undergrad", "Churchgoer for 10 years", "Currently lives outside GTA", "Taken New Hope 101", "Major in music", "Has an Apple phone"],
+             ["YouTube with 100k+ subs", "Recite the Lord's Prayer", "Sing a song for everyone", "20 years or younger", "Attended NHF less than a month", "Name Jesus' 12 disciples", "1M views on TikTok"],
+             ["Broken a bone in the past", "Lives with a pet", "Say the NHF Vision Statement", "Birthday on February 13", "Knows John 3:16 by memory", "Working full time", "Selfie with a celebrity"],
+             ["20 push-ups", "Say Hello in three languages", "Can play the piano", "Instagram with 1000+ followers", "Only child", "Major in computer engineering", "Touch their nose with their tongue"],
+             ["Left-handed", "Full G driver's license", "Two or more siblings", "1st year undergrad", "Never been on a plane", "Born in the same month as ________", "30 seconds without blinking"]]
